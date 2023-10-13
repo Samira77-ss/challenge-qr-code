@@ -18,7 +18,7 @@ function App() {
       <footer>
         This page was coded by Samira Seyfi{" "}
         <a
-          href="https://github.com/Samira77-ss/challenge-product"
+          href="https://github.com/Samira77-ss/challenge-qr-code"
           target="_blank"
           alt="GithHub Profile"
           rel="noreferrer"
@@ -27,7 +27,7 @@ function App() {
         </a>
         , and hosted on{" "}
         <a
-          href="https://tranquil-klepon-bd88fd.netlify.app"
+          href="https://elaborate-kulfi-d6857f.netlify.app"
           alt="Netlify link"
           target="_blank"
           rel="noreferrer"
